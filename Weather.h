@@ -16,7 +16,7 @@
 // // const char* time_zone = "CET-1CEST,M3.5.0,M10.5.0/3";  // TimeZone rule for Europe/Rome including daylight adjustment rules (optional)
 
 // // See https://docs.thingpulse.com/how-tos/openweathermap-key/
-// String OPEN_WEATHER_MAP_APP_ID = "318afffc425368f60eb8dd49382346bb";
+// String OPEN_WEATHER_MAP_APP_ID = "OpenWeatherMapKey";
 
 // String OPEN_WEATHER_MAP_LOCATION_ID = "2950159";
 
